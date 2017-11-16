@@ -1,0 +1,152 @@
+<div class="ordenar">
+    <span class="texto">Resultados:</span>
+    <div class="campo">
+        <select id="ordem-campo1" onchange="pesquisar('resultado');" class="multiselect" style="display: none;">
+            <option value="valor">Valor</option>
+            <option value="fotos">Fotos</option>
+            <option value="recentes" selected="true">Mais Recentes</option>
+            <option value="dormitorios">Dormitórios</option>
+            <option value="bairro">Bairro</option>
+        </select>
+        <div class="btn-group" style="width: 100%;">
+            <button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="Mais Recentes"
+                style="width: 100%; overflow: hidden; text-overflow: ellipsis;" aria-expanded="false">
+                <span class="multiselect-selected-text">Mais Recentes</span>
+                <b class="caret"></b>
+            </button>
+            <ul class="multiselect-container dropdown-menu" style="max-height: 250px; overflow-y: auto; overflow-x: hidden;">
+                <li class="multiselect-item filter" value="0">
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="fa fa-search"></i>
+                        </span>
+                        <input class="form-control multiselect-search" type="text" placeholder="Pesquisar">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default multiselect-clear-filter" type="button">
+                                <i class="fa fa-times"></i>
+                            </button>
+                        </span>
+                    </div>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="valor"> Valor</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="fotos"> Fotos</label>
+                    </a>
+                </li>
+                <li class="active">
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="recentes"> Mais Recentes</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="dormitorios"> Dormitórios</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="bairro"> Bairro</label>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="campo">
+        <select id="ordem-resultado" onchange="pesquisar('resultado');" class="multiselect" style="display: none;">
+            <option value="crescente" selected="true">Crescente</option>
+            <option value="decrescente">Decrescente</option>
+        </select>
+        <div class="btn-group" style="width: 100%;">
+            <button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="Crescente"
+                style="width: 100%; overflow: hidden; text-overflow: ellipsis;">
+                <span class="multiselect-selected-text">Crescente</span>
+                <b class="caret"></b>
+            </button>
+            <ul class="multiselect-container dropdown-menu" style="max-height: 250px; overflow-y: auto; overflow-x: hidden;">
+                <li class="multiselect-item filter" value="0">
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="fa fa-search"></i>
+                        </span>
+                        <input class="form-control multiselect-search" type="text" placeholder="Pesquisar">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default multiselect-clear-filter" type="button">
+                                <i class="fa fa-times"></i>
+                            </button>
+                        </span>
+                    </div>
+                </li>
+                <li class="active">
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="crescente"> Crescente</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="decrescente"> Decrescente</label>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="campo">
+        <select id="total-imoveis" onchange="pesquisar('resultado');" class="multiselect" style="display: none;">
+            <option value="12" selected="true">12 Imóveis</option>
+            <option value="24">24 Imóveis</option>
+            <option value="48">48 Imóveis</option>
+        </select>
+        <div class="btn-group" style="width: 100%;">
+            <button type="button" class="multiselect dropdown-toggle btn btn-default" data-toggle="dropdown" title="12 Imóveis"
+                style="width: 100%; overflow: hidden; text-overflow: ellipsis;">
+                <span class="multiselect-selected-text">12 Imóveis</span>
+                <b class="caret"></b>
+            </button>
+            <ul class="multiselect-container dropdown-menu" style="max-height: 250px; overflow-y: auto; overflow-x: hidden;">
+                <li class="multiselect-item filter" value="0">
+                    <div class="input-group">
+                        <span class="input-group-addon">
+                            <i class="fa fa-search"></i>
+                        </span>
+                        <input class="form-control multiselect-search" type="text" placeholder="Pesquisar">
+                        <span class="input-group-btn">
+                            <button class="btn btn-default multiselect-clear-filter" type="button">
+                                <i class="fa fa-times"></i>
+                            </button>
+                        </span>
+                    </div>
+                </li>
+                <li class="active">
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="12"> 12 Imóveis</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="24"> 24 Imóveis</label>
+                    </a>
+                </li>
+                <li>
+                    <a tabindex="0">
+                        <label class="radio">
+                            <input type="radio" value="48"> 48 Imóveis</label>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <span class="quantidade">(44 imóveis)</span>
+</div>

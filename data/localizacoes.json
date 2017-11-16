@@ -1,0 +1,398 @@
+[{
+	"_id": {
+		"inf_venda": 1,
+		"inf_locacao": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VILA AURORA",
+		"inf_condonome": "Jardim das flores",
+		"inf_construtora": "Bella Vista",
+		"inf_categoria": "NORMAL",
+		"codempre": 18449,
+		"inf_regiao": "Norte"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_locacao": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VILA AURORA",
+		"inf_condonome": "Jardim das flores",
+		"inf_construtora": "Bella Vista",
+		"inf_categoria": "NORMAL",
+		"codempre": 18449,
+		"inf_regiao": "Norte"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM REGINA",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM ALICE",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "PARQUE SAO TOMAZ DE AQUINO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "CAMPINAS",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "OCUPADO",
+		"inf_construtora": "lix",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CIDADE NOVA II",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CENTRO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "COLINAS DE INDAIATUBA II",
+		"inf_categoria": "SOBRADO"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "SÍTIO",
+		"inf_subtipo": "RURAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CHACARA ALVORADA",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "CAMPINAS",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "DESOCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "COLINAS DO MOSTEIRO DE ITAICI",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM BRASIL",
+		"inf_categoria": "DUPLEX"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "CAMPINAS",
+		"inf_bairro": "CAMBUI"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "ALTOS DA BELA VISTA",
+		"inf_categoria": "COBERTURA"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM ITAMARACA",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM MORADA DO SOL",
+		"inf_categoria": "TÉRREO(A)"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "DESOCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CHÁCARA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "TERRAS DE ITAICI",
+		"inf_categoria": "TÉRREO(A)"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VILA TODOS OS SANTOS",
+		"inf_categoria": "TÉRREO(A)"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM MORUMBI",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_temporada": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CAMBUI",
+		"inf_condonome": "Costa Bella",
+		"inf_estado": "OCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "TERRAS DE ITAICI",
+		"inf_categoria": "SOBRADO"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM CIDADE JARDIM",
+		"inf_condonome": "CAMÉLIAS",
+		"inf_estado": "DESOCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "COMERCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "CAMPINAS",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "OCUPADO",
+		"inf_categoria": "SOBRADO",
+		"inf_quadra": "3",
+		"inf_lote": "00",
+		"inf_regiao": "CENTRO"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VILA TODOS OS SANTOS",
+		"inf_categoria": "TÉRREO(A)"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "CASA",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VILA BRIZZOLA",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "TERRENO",
+		"inf_subtipo": "RURAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "VALE DO SOL",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "CAMPINAS",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "OCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "SALA",
+		"inf_subtipo": "COMERCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CIDADE NOVA I",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "BARRACÃO",
+		"inf_subtipo": "COMERCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CENTRO",
+		"inf_categoria": "TÉRREO(A)"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "CENTRO",
+		"inf_estado": "DESOCUPADO",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_venda": 1,
+		"inf_locacao": 1,
+		"inf_tipo": "BARRACÃO",
+		"inf_subtipo": "COMERCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "DISTRITO INDUSTRIAL DOMINGOS GIOMI",
+		"inf_categoria": "NORMAL"
+	}
+},
+{
+	"_id": {
+		"inf_locacao": 1,
+		"inf_tipo": "APARTAMENTO",
+		"inf_subtipo": "RESIDENCIAL",
+		"inf_uf": "SP",
+		"inf_cidade": "INDAIATUBA",
+		"inf_bairro": "JARDIM CALIFORNIA",
+		"inf_categoria": "NORMAL"
+	}
+}]

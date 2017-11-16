@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"/>
+    
+    <title>SOUSA NEGÓCIOS IMOBILIÁRIOS - Imobiliária Sousa Imóveis éden cajuru em Sorocaba SP compra, venda e locação de casa, sobrado, apartamento, terreno, lote, kitinete, condomínio, sala, galpão, escritório, salão comercial industrial, sítio, chácara</title>
+
+    <!-- Metas SEO -->
+    <meta name="google-site-verification" content="HYPY8Z_JQhXcBk8EjEIyhz0Lej6BWabPUlh0kpN1MMs">
+    <meta name="description" content="Imóveis em Sorocaba São Paulo Brasil Centro Éden Zona Industrial Imobiliária Sorocaba Casas Apartamentos Terrenos Lotes Casas em condomínio fechado Imóveis no Interior de São Paulo Venda Locação Administração aluguel Investimento em Imóveis Sorocaba">
+    <meta http-equiv="content-language" content="pt-BR">
+    <meta name="robots" content="all">
+    <meta name="googlebot" content="all">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta name="rating" content="General">
+    <meta name="language" content="portuguese"> 
+    <meta name="distribution" content="Global">
+    <meta name="rating" content="General"> 
+    <meta http-equiv="imagetoolbar" content="no">
+    <meta name="revisit-after" content="7 days">
+    <meta name="geo.placename" content="R. Hércules Francischini, 186 - Éden, Sorocaba - SP, 18103-090, Brasil" />
+    <meta name="geo.position" content="-23.4182840;-47.4109940" />
+    <meta name="geo.region" content="BR-São Paulo" />
+    <meta name="ICBM" content="-23.4182840, -47.4109940" />
+    <!-- Fim Metas SEO -->
+	
+    <link rel="stylesheet" href="stylesheets/vendor/font-awesome.min.css">
+    <link rel="stylesheet" href="stylesheets/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="stylesheets/vendor/bootstrap-multiselect.css">
+    <link rel="stylesheet" href="stylesheets/vendor/gldatepicker.default.css">
+    <link rel="stylesheet" href="stylesheets/vendor/fotorama.css">
+
+    <link rel="stylesheet" href="stylesheets/style.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,700" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+    <?php include 'botoes-midia-digital.php';?>
+    <?php include 'chat-corretor.php';?>
+
+    <?php include 'favoritos.php';?>
+
+    <input id="whatsapp_hora_inicio" type="hidden" value="07:00">
+    <input id="whatsapp_hora_fim" type="hidden" value="19:00">
+    <input id="whatsapp_dias" type="hidden">
+
+    
+
+    <br clear="all">
+    <div class="topo">
+
+        <?php include 'menu.php';?>
+        <?php include 'banner.php';?>     
+
+
+        <?php include 'conteudo-home/busca-rapida/busca-rapida.php';?>
+
+        <comprar></comprar>
+
+        <div class="titulo_pagina">&nbsp;</div>
+
+       <h1 class="titulo_home">Imobiliária</h1> 
+
+       <?php include 'conteudo-home/conteudo-home.php' ?>
+
+       <br clear="all">
+       <br clear="all">
+
+        <?php include 'rodape.php' ?>       
+
+    <script type="text/javascript" src="javascripts/vendor/jquery-3.2.1.slim.min.js"></script>
+
+    <script type="text/javascript" src="javascripts/vendor/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/jquery.lazyload.min.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/jquery.mask.min.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/gldatepicker.min.js"></script>
+
+    <script type="text/javascript" src="javascripts/vendor/bootstrap-multiselect.js"></script>
+
+    <script type="text/javascript" src="javascripts/vendor/bootstrap.min.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/popper.min.js"></script>
+    
+    <script type="text/javascript" src="javascripts/vendor/scripts.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/fotorama.js"></script>
+    <script type="text/javascript" src="javascripts/vendor/galleria-1.5.7.min.js"></script>
+
+   <script>
+        $(document).ready(function () {
+            $('.carousel').carousel({
+                interval: 3000
+            })
+        });
+    </script>
+
+
+
+</body>
+
+</html>
